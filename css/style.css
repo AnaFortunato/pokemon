@@ -1,0 +1,64 @@
+*,
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: lightsalmon;
+}
+
+.title{
+    text-align: center;
+}
+
+section{
+    float: left;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+}
+
+.section-pokedex{
+    background-color: gray;
+    width: 30vw;
+    margin-right: 150px;
+}
+
+.section-pokemon{
+    background-color: lightgray;
+    width: 50vw;
+    
+}
+
+.menu{
+    color: white;
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.link-menu{
+    margin: 25px;
+}
+
+.img-pokemon{
+    height: 350px;
+}
+
+.pokemon-water{
+    color: black;
+
+}
+
+.pokemon-eletric{
+
+}
