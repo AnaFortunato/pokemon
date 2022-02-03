@@ -6,5 +6,5 @@ Projeto Criado com Html e Bootstrap 5.0
 
 # Desktop
 
-![Image](Pokemom.PNG)
+![Image](./img/screenshot/desktop.jpeg)
 
