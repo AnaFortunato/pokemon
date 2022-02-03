@@ -8,6 +8,3 @@ Projeto Criado com Html e Bootstrap 5.0
 
 ![Image](Pokemom.PNG)
 
-# Mobile 
-
-![Image](Mobile.jpeg)
