@@ -6,5 +6,5 @@ Projeto Criado com Html e Bootstrap 5.0
 
 # Desktop
 
-![Image](./img/screenshot/desktop.jpeg)
+![Image](./img/screenshot/Desktop.jpeg)
 
